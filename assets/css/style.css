@@ -38,6 +38,11 @@ h3 {
     font-size: 25px;
 }
 
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
 
 /* Header */
 
@@ -127,4 +132,18 @@ header img {
     width: 316px;
     height: 202px;
     margin: 73px 8px;
+}
+
+/* Footer */
+
+footer {
+    text-align: center;
+    height: 100px;
+    background-color: #1e1a13;
+}
+
+footer a {
+    display: inline-block;
+    margin: 39px auto;
+
 }

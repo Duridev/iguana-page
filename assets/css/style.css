@@ -114,3 +114,17 @@ header img {
     font-size: 41px;
 }
 
+/* Galeria */
+
+.gallery {
+    height: 350px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.gallery img {
+    width: 316px;
+    height: 202px;
+    margin: 73px 8px;
+}
